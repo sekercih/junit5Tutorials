@@ -11,7 +11,7 @@ public class J05RepeatedTestDisabledTest {
 	 */
 
     //
-    @RepeatedTest(212323625)
+    @RepeatedTest(10)
     @DisplayName("Contain test 10 kere calisacak")
     void containsTest() {
         assertFalse("abcdefg".contains("hi"));
