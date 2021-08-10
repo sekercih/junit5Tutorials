@@ -3,3 +3,9 @@ preply
 Clubhouse
 ingilizce öğrenmek için
 siteler..
+
+https://frontbackend.com/spring-boot/spring-boot-2-junit-5-mockito
+
+https://github.com/ananthkhegde/spring-boot-mockito
+
+https://github.com/spekdrum/junit-mockito-springboot
